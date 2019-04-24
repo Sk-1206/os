@@ -15,4 +15,9 @@ int main()
 		scanf("%d",&pt[i]);
 		printf("enter no of gifts:");
 		scanf("%d",&pr[i]);
+		
+		
+		
+		
+		
 	}
